@@ -1,1 +1,1 @@
-# Internship_project2
+Rock, Paper, and Scissor game with computer. 
